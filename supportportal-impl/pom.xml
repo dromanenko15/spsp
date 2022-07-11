@@ -12,7 +12,7 @@
     <artifactId>supportportal-impl</artifactId>
 
     <properties>
-        <spring.version>2.2.0.RELEASE</spring.version>
+        <spring.version>2.2.11.RELEASE</spring.version>
     </properties>
 
     <dependencies>
